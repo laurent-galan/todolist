@@ -1,1 +1,2 @@
 # todolist
+exercice de LAURENT GALAN tentative d'application to do liste . je n'est pas réussi a arriver jusqu'a la fin et donc appliquer les mise en forme donné dans l'énnoncé vue que arrivé à ce stade je n'avait plus de visuel sur l'application dans le navigateur , j'ai recommancé de eéro le projet sa fonctionné au début et ensuite je n'avais plus de visuel donc n'est pas réussi à finir malgrés que j'ai passer la journée et une partie de la nuit dessus 
