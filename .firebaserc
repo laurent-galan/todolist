@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todolist-c0529": {
+      "hosting": {
+        "app": [
+          "todolist-c0529"
+        ]
+      }
+    }
+  }
+}
